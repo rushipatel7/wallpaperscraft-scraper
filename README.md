@@ -1,4 +1,4 @@
-# wallcraft-scraper
+# wallpaperscraft-scraper
 
 ## Scraping Site :- https://wallpaperscraft.com/
 
